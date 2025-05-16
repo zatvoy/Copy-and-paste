@@ -69,5 +69,6 @@ Programmers copying code snippets
 Data entry and documentation
 
 Students gathering notes
+
 ** note this tool is just an example of the idea, operating systems should have this feature as a shortcut key which enables the users to use ctrl+c in the above manner.
 
